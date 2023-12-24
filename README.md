@@ -1,1 +1,1 @@
-"# Phramacy_management_system" 
+Pharmacy Management System for Client request [Doctor Niroshan Jayashanka]
